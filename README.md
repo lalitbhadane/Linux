@@ -59,6 +59,7 @@ Each folder includes:
 | Aug 24, 2026 | ✅ Complete | Started the ASG module and configured the application instance security group so HTTP traffic is allowed only from the ALB. |
 | Sep 1, 2026 | ✅ Complete | Added a NAT Gateway and private subnet routing. Completed the launch template and Auto Scaling Group, deployed Apache on EC2 through user data, connected instances to the ALB target group and enabled ELB health checks. |
 | Sep 4, 2026 | ✅ Complete | Added a PostgreSQL RDS module, dedicated database subnets and DB subnet group. Added IAM/SSM access for EC2 and restricted database access to the application security group. |
+
 *(This table will be updated as I move forward — next up: VPC, ALB, Auto Scaling, RDS, and a GitHub Actions CI/CD pipeline for a self-healing multi-tier AWS app.)*
 
 ---
