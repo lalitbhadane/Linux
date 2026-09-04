@@ -54,7 +54,11 @@ Each folder includes:
 | --- | --- | --- |
 | Day 1-12 | ✅ Complete | Linux fundamentals — terminal basics, file/dir ops, permissions & ownership, processes, bash scripting, services (`systemctl`), networking tools, SSH |
 | Aug 21, 2026 | ✅ Complete | **Resumed.** Set up full AWS/Terraform toolchain in WSL Ubuntu, created a scoped IAM user (not root), wrote and applied my first Terraform config (S3 bucket), ran the full `init → plan → apply → destroy` cycle, pushed to GitHub |
-
+| Aug 22, 2026 | ✅ Complete | Built a reusable VPC module with public/private subnets, Internet Gateway and route tables. |
+| Aug 23, 2026 | ✅ Complete | Built an ALB module and connected the root Terraform configuration with the VPC and ALB modules. |
+| Aug 24, 2026 | ✅ Complete | Started the ASG module and configured the application instance security group so HTTP traffic is allowed only from the ALB. |
+| Sep 1, 2026 | ✅ Complete | Added a NAT Gateway and private subnet routing. Completed the launch template and Auto Scaling Group, deployed Apache on EC2 through user data, connected instances to the ALB target group and enabled ELB health checks. |
+| Sep 4, 2026 | ✅ Complete | Added a PostgreSQL RDS module, dedicated database subnets and DB subnet group. Added IAM/SSM access for EC2 and restricted database access to the application security group. |
 *(This table will be updated as I move forward — next up: VPC, ALB, Auto Scaling, RDS, and a GitHub Actions CI/CD pipeline for a self-healing multi-tier AWS app.)*
 
 ---
