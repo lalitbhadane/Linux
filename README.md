@@ -1,4 +1,4 @@
-# 🧠 100 Days of Linux & DevOps – Learning Journey
+[# 🧠 100 Days of Linux & DevOps – Learning Journey
 
 Welcome to my daily log of learning Linux and DevOps! This repo documents my hands-on practice, notes, and reflections as I work toward becoming job-ready in the AWS Cloud & DevOps space.
 
@@ -77,3 +77,4 @@ Each folder includes:
 Big thanks to the open source community & mentors who shared learning paths, and to myself—for showing up every day (even after a break).
 
 Let's go. 💪
+](https://github.com/lalitbhadane/DevOps-Journey.git)
