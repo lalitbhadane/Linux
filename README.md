@@ -1,4 +1,4 @@
-[# 🧠 100 Days of Linux & DevOps – Learning Journey
+# 🧠 100 Days of Linux & DevOps – Learning Journey
 
 Welcome to my daily log of learning Linux and DevOps! This repo documents my hands-on practice, notes, and reflections as I work toward becoming job-ready in the AWS Cloud & DevOps space.
 
@@ -21,7 +21,7 @@ I recently rebooted my life and committed to going **all in** on my tech career.
 | -------- | ----- |
 | Ongoing  | AWS fundamentals, Terraform (IaC), CI/CD with GitHub Actions, building toward a self-healing multi-tier AWS application |
 
-**Previously completed:** 30-day Linux Fundamentals track (commands, bash scripting, permissions, users, services, networking, git) — see Day 1-12 below.
+**Previously completed:** 12-day Linux Fundamentals track (commands, bash scripting, permissions, users, processes, services, networking) — see Day 1-12 below.
 
 ---
 
@@ -52,7 +52,7 @@ Each folder includes:
 
 | Day | Status | Summary |
 | --- | --- | --- |
-| Day 1-12 | ✅ Complete | Linux fundamentals — terminal basics, file/dir ops, permissions & ownership, processes, bash scripting, services (`systemctl`), networking tools, SSH |
+| Day 1-12 | ✅ Complete | Linux fundamentals — terminal basics, file/dir ops, permissions & ownership, processes, bash scripting, services (`systemctl`), networking tools, SSH. Day 10 was a standalone deep-dive: deploying a full PHP-MySQL e-commerce app on Ubuntu ([repo](https://github.com/lalitbhadane/Lalit-Ecom-Application)) |
 | Aug 21, 2026 | ✅ Complete | **Resumed.** Set up full AWS/Terraform toolchain in WSL Ubuntu, created a scoped IAM user (not root), wrote and applied my first Terraform config (S3 bucket), ran the full `init → plan → apply → destroy` cycle, pushed to GitHub |
 | Aug 22, 2026 | ✅ Complete | Built a reusable VPC module with public/private subnets, Internet Gateway and route tables. |
 | Aug 23, 2026 | ✅ Complete | Built an ALB module and connected the root Terraform configuration with the VPC and ALB modules. |
@@ -77,4 +77,3 @@ Each folder includes:
 Big thanks to the open source community & mentors who shared learning paths, and to myself—for showing up every day (even after a break).
 
 Let's go. 💪
-](https://github.com/lalitbhadane/DevOps-Journey.git)
